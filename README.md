@@ -9,12 +9,13 @@ Multi-Object Detection and Tracking using Detectron2's pre-trained Mask-RCNN on 
 **Current results:**
 - The model performs very well on cars, and not so well on pedestrians.
 - Model evaluation is yet to be done.
-- Results visualized:
-  - (GIF to be added here)
+- Current results visualized (**more pedestrian data needs to be added**): <br>
+![Alt Text](https://github.com/kevinbtw-codes/KITTI-Multi-Object-Detection-Tracking-Detectron2/blob/main/result_without_pedestrian_data.gif)
   
 **To-do:**
-- [ ] Visualize results as videos
-- [ ] Add more pedestrian data
+- [x] Visualize results as videos
+- [ ] **Add more pedestrian data** [IN PROGRESS]
+- [ ] Evaluate the model
 - [ ] Tracked objects lose their class labels. To be fixed
-- [ ] Tracked objects have different colored boxes in different frames. To be fixed
-- [ ] Update the code to make it easily understandable
+- [ ] Make each tracked object have a different color
+- [ ] Update the code to make it easily understandable by anyone
