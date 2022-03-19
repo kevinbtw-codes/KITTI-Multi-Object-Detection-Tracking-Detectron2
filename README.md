@@ -1,6 +1,8 @@
 # KITTI-Multi-Object-Detection-Tracking-Detectron2
 Multi-Object Detection and Tracking using Detectron2's pre-trained Mask-RCNN on the KITTI MOTS dataset.
 
+## The model currently only works well on cars. More pedestrian data will be added in the next update.
+
 **Process:**
 - Detectron2 is a library by Facebook. It contains many pretrained models and other useful features for CV tasks.
 - The pretrained model I have used is the "Cityscapes/mask_rcnn_R_50_FPN", which was trained on the Cityscapes dataset for instance segmentation.
