@@ -6,7 +6,7 @@ Multi-Object Detection and Tracking using Detectron2's pre-trained Mask-RCNN on 
 - The pretrained model I have used is the "Cityscapes/mask_rcnn_R_50_FPN", which was trained on the Cityscapes dataset for instance segmentation.
 - The model has so far only been trained on the KITTI MOTS dataset. It can be improved with the MOTSChallenge dataset, which has a lot more pedestrian data.
 
-**Current results:**
+**Current results (*without extra pedestrian data*):**
 - The model performs very well on cars, and not so well on pedestrians.
 - Model evaluation is yet to be done.
 - Current results visualized (**more pedestrian data needs to be added**): <br>
