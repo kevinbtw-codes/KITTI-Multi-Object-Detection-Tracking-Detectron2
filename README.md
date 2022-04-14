@@ -8,7 +8,7 @@ Multi-Object Detection and Tracking using Detectron2's pre-trained Mask-RCNN on 
 
 **Current results:**
 - Model evaluation is yet to be done.
-- Current results visualized: <br>
+- Current results visualized (the model is only trained to recognize cars and pedestrians): <br>
 ![Alt Text](https://github.com/kevinbtw-codes/KITTI-Multi-Object-Detection-Tracking-Detectron2/blob/main/results.gif?raw=true)
   
 **To-do:**
